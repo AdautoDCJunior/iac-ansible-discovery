@@ -1,0 +1,9 @@
+exclude_paths:
+  - .git/
+  - .vagrant/
+  - .vagrant.d/
+  - .vscode/
+  - venv/
+
+skip_list:
+    - package-latest
